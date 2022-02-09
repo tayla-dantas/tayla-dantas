@@ -1,12 +1,10 @@
 # Hello world! 
 
-##
-
-💻 My name is Tayla and I'm a Java backend developer. 
-💖 I'm very passionate about Technology and Innovation. 
-📚 I'm graduated as Game programming developer, specialized in web development in Java and now studying Computer Science and specializing in IA. 
-💬 I speak English fluently and now studying French. 
-🌐 Looking forward to hear any remote job opportunity. 
+💻 My name is Tayla and I'm a Java backend developer. <br>
+💖 I'm very passionate about Technology and Innovation. <br>
+📚 I'm graduated as Game programming developer, specialized in web development in Java and now studying Computer Science and specializing in IA. <br>
+💬 I speak English fluently and now studying French. <br>
+🌐 Looking forward to hear any remote job opportunity. <br>
 
 
 ##
@@ -24,35 +22,36 @@
  <img align="center" height="30" width="90" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
  <img align="center" height="30" width="90" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-
+  
  <img align="center" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
  <img align="center" height="30" width="90" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 
-<img align="center" height="30" width="120" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<img align="center" height="30" width="90" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 
  <img align="center" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-<img align="center" height="30" width="120" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 
-<img align="center" height="30" width="80" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
-<img align="center" height="30" width="120" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<img align="center" height="30" width="90" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 
 <img align="center" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 
 <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="img/me.gif">
-
+<br>
+  
 </div>
 
 ##
