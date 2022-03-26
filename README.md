@@ -3,7 +3,7 @@
 💻 My name is Tayla and I'm a Java backend developer. <br>
 💖 I'm very passionate about Technology and Innovation. <br>
 📚 I'm graduated as Game programming developer, specialized in web development in Java and now studying Computer Science and specializing in IA. <br>
-💬 I speak English fluently and now studying French. <br>
+💬 I speak English fluently and now studying Spanish. <br>
 🌐 Looking forward to hear any remote job opportunity. <br>
 
 
